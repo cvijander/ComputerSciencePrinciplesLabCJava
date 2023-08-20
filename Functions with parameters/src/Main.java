@@ -14,7 +14,7 @@ public class Main {
         changeScore(50);
         changeScore(-250);
         changeScore(125);
-        
+
 
 
     }
