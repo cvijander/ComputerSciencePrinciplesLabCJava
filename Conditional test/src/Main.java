@@ -56,7 +56,7 @@ public class Main {
                 System.out.println("This condition (myValue <= 5) is true");
             }
         }
-        
+
 
 
 
