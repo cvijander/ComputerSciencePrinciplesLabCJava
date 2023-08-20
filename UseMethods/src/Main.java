@@ -16,7 +16,7 @@ public class Main {
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
 
         }
-     // change the score of the game and output to the console 
+     // change the score of the game and output to the console
         public  static void changeScore()
         {
             myScore = myScore + 100;
